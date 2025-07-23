@@ -11,7 +11,6 @@
 
   ```bash
   git clone https://github.com/igro83/moyaPosylka.git
-
   ```
 * Соберите проект:
 
@@ -32,7 +31,6 @@
 
   ```bash
   ./moyaposylka --file tracks.txt --apikey ваш_api_key
-
   ```
 
 ## 📄 Примеры
