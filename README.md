@@ -36,7 +36,7 @@
 ## 📄 Примеры
 
 Вывод таблицы<br>
-<img src="./app_example.png" width="70%"/><>
+<img src="./app_example.png" width="100%"/><br>
 
 
 ## Ошибки
